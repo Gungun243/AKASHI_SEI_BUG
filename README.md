@@ -4,7 +4,7 @@
   </a>
 </p>
 
-![AKASHI_SEI_BUG](https://i.imgur.com/kt7zruF.mp4)
+<img src="https://i.imgur.com/kt7zruF.mp4" atl= "AKASHI_SEI_BUG"</img>
 <p align="center">
 <a href="https://www.youtube.com/@SSK-FAMILYCAMPAGNY"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@SSK-FAMILYCAMPAGNY" /><br>
 <a href="https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
