@@ -4,8 +4,8 @@
   </a>
 </p>
 
- <img alt="wasi" height="300" src="https://i.imgur.com/JPUEVrM.jpeg">
-    <h1 align="center"> AKASHI_SEI_BUG</h1>
+ <img alt="wasi" height="600" src="https://i.imgur.com/JPUEVrM.jpeg">
+    <h1 align="middle"> AKASHI_SEI_BUG</h1>
 
 <p align="center">
 <a href="https://www.youtube.com/@SSK-FAMILYCAMPAGNY"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@SSK-FAMILYCAMPAGNY" /><br>
