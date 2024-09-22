@@ -4,7 +4,7 @@
   </a>
 </p>
 
- <img alt="wasi" height="300" src="https://i.imgur.com/kt7zruF.mp4">
+ <img alt="wasi" height="300" src="https://i.imgur.com/JPUEVrM.jpeg">
     <h1 align="center"> AKASHI_SEI_BUG</h1>
 
 <p align="center">
